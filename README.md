@@ -7,3 +7,4 @@ QWQ
 ![Static Badge](https://img.shields.io/badge/anti-exam%F0%9F%98%AD-blue)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%98%8B_%F0%9F%98%8B_%F0%9F%98%8B-red)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=normal-pcer)](https://github.com/ryo-ma/github-profile-trophy)
